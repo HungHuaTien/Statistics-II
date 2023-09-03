@@ -5,6 +5,8 @@
 
 **講義下載**：https://reurl.cc/mD8ApY
 
+**Line群組**：https://line.me/ti/g/ASNSyOl79Z 
+
 ## 課程公告
 
 ### Week 1 2023/09/14(四)
