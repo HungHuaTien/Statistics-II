@@ -12,6 +12,10 @@
 ### Week 1 2023/09/14(四)
 - **課程進度**：課程綱要 ＋入門概論-緒論
 - **提醒事項**：請記得線上課程-R語言的使用與操作
+- **課程錄影**：
+  - https://youtu.be/ELMSuIUAn-c
+  - https://youtu.be/2RyIMmKB0VQ
+  - https://youtu.be/iVPXDk8B5_I
 - **個人作業**：1題
 
 例1:試判下列資料的型態
