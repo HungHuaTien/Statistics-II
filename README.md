@@ -14,6 +14,10 @@
 - **課程進度**: Unit3 統計量
 - **個人作業**: 課本習題6.6與6.8
 - **加分作業**：講義例題
+- **錄影連結**:
+  - https://youtu.be/EatMklN4Y1U
+  - https://youtu.be/y5Tks5s90Fk
+  - https://youtu.be/AF9nDKL8JyI
 
 ### Week 2 2023/09/21(四）
 
