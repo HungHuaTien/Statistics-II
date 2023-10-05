@@ -14,6 +14,8 @@
 - **課程進度**: Unit4 統計圖表
 - **個人作業**: 課本習題5.4與5.10
 - **錄影連結**:
+  - https://youtu.be/WfkMkG_GwuQ
+  - https://youtu.be/cX2KiA496ns
 
 ### Week 3 2023/09/28(四）
 
