@@ -14,6 +14,8 @@
 - **課程進度**: Unit 5 隨機變數與機率分配
 - **個人作業**: 課本習題8.4與8.6
 - **錄影連結**:
+  - https://www.youtube.com/watch?v=_nzz-J2QKVc
+  - https://youtu.be/MjFOps1sCfk
 
 
 ### Week 4 2023/10/05(四）
