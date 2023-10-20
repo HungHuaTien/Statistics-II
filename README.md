@@ -14,6 +14,9 @@
 - **課程進度**: Unit 6 離散型機率分配
 - **個人作業**: 課本習題8.8（二項分配即可）
 - **錄影連結**:
+  - https://youtu.be/7TgjKwV7koU
+  - https://youtu.be/_UHfcHFO2Oc
+  - https://youtu.be/DIo6jwjNyIE
 
 
 ### Week 5 2023/10/12(四）
