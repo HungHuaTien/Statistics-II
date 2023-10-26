@@ -14,7 +14,7 @@
 - **課程進度**: Unit 7 連續型機率分配
 - **個人作業**: 課本習題9.1與9.2
 - **錄影連結**:
-  - ttps://youtu.be/Cj1wVWqOon4
+  - https://youtu.be/Cj1wVWqOon4
   - https://youtu.be/rB-tPIX7CFM
   - https://youtu.be/Ss252XAYMUg
 
