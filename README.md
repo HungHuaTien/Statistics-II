@@ -16,6 +16,9 @@
 - **課程進度**: Unit 7 連續型機率分配+ Unit 8
 - **個人作業**: 課本習題9.4與9.8
 - **錄影連結**:
+  - https://youtu.be/TuOep_AXdtc
+  - https://youtu.be/w62qfyekXgQ
+  - https://youtu.be/qNliq03Ks_8
 
 ### Week 7 2023/10/26(四）
 
