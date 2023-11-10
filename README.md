@@ -16,6 +16,9 @@
 - **課程進度**: Unit 8 抽樣分配
 - **個人作業**: 無
 - **錄影連結**:
+  - https://youtu.be/RG-kCkPJHeY
+  - https://youtu.be/W-YE0xWbjlE
+  - https://youtu.be/o7tgwFBsaxA
 
 ### Week 8 2023/11/02(四）
 
