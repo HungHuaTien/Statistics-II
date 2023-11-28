@@ -1,4 +1,5 @@
 # Statistics-II
+
 ## 進修部統計學
 
 **課程網頁**：https://github.com/HungHuaTien/Statistics-II/
@@ -9,7 +10,7 @@
 
 ## 課程公告
 
-### Week 12 2023/11/23(四）
+### Week 12 2023/11/30(四）
 
 導師導生聚餐，19:30開始上課
 
