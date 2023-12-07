@@ -16,6 +16,9 @@
 - **課程進度**: Unit 10 假設檢定
 - **個人作業**: 上課時一起討論與練習
 - **錄影連結**:
+  - https://youtu.be/d3RX3fBVu4U
+  - https://youtu.be/FslVH-R6vTM
+  - https://youtu.be/04m-J9lH8A0
 
 ### Week 12 2023/11/30(四）
 
