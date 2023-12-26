@@ -16,6 +16,8 @@
 - **課程進度**: Unit 10 假設檢定
 - **個人作業**: 上課時一起討論與練習(Bluman 課本例題)
 - **錄影連結**:
+  - https://youtu.be/OL3lvNUIwqg
+  - https://youtu.be/SqWqLc2r9ZQ
 
 
 ### Week 14 2023/12/014(四）
@@ -23,6 +25,9 @@
 - **課程進度**: Unit 10 假設檢定
 - **個人作業**: 上課時一起討論與練習
 - **錄影連結**:
+  - https://youtu.be/Fp90_ZHKP8s
+  - https://youtu.be/cEr11EkozLY
+  - https://youtu.be/eLtP5I2VL-k
 
 ### Week 13 2023/12/07(四）
 
