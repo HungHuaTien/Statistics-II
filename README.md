@@ -11,6 +11,12 @@
 ## 課程公告
 
 
+### Week 16 2023/12/28(四）
+
+- **課程進度**: Unit 10 假設檢定
+- **個人作業**: 上課時一起討論與練習(Bluman 課本例題)
+- **錄影連結**:
+
 ### Week 15 2023/12/21(四）
 
 - **課程進度**: Unit 10 假設檢定
@@ -18,6 +24,7 @@
 - **錄影連結**:
   - https://youtu.be/OL3lvNUIwqg
   - https://youtu.be/SqWqLc2r9ZQ
+  - https://youtu.be/ldkPzG37FME
 
 
 ### Week 14 2023/12/014(四）
